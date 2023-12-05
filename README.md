@@ -11,7 +11,7 @@ This repository contains resources for the NUS module, Introduction to Machine L
 - Understanding how to evaluate the performance of machine learning models
 - Metrics like accuracy, precision and recall
 
-# Model Selection
+# Model Selection:
 - Preprocessing and transforming data to improve model performance
 - Dealing with missing data and outliers
 - Exploring different machine learning models and their applicability
